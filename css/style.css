@@ -1,0 +1,8 @@
+/*body{background-color: blue;}
+*/.carousel-inner img{width: 100%;
+height: 100%;}
+.carousel-inner h1{text-shadow: 2px 2px black;}
+.carousel-inner .carousel-caption{background-color: rgba(250,250,250, .1);
+border-radius: 8px;}
+.card-header:hover{background-color: darkgrey;}
+*//*.card-header:focus{background-color: green;}
